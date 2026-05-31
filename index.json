@@ -1,0 +1,23 @@
+{
+  "product": "Aspose.Cells",
+  "agent": "Aspose.Cells Product Agent",
+  "language": "csharp",
+  "framework": ".NET",
+  "examples": [
+    {
+      "category": "conversion",
+      "file": "batch-convert-multiple-xlsx-files-to-pdf-and-store-results-in-an-output-folder.cs",
+      "title": "Batch convert multiple XLSX files to PDF and store results in an output folder."
+    },
+    {
+      "category": "conversion",
+      "file": "export-each-sheet-as-jpeg-images-with-300-dpi-resolution-for-printing.cs",
+      "title": "Export each sheet as JPEG images with 300\u202fDPI resolution for printing."
+    },
+    {
+      "category": "working-with-images",
+      "file": "transform-an-xlsx-workbook-into-a-tiff-image-while-maintaining-visual-fidelity-and-page-layout.cs",
+      "title": "Transform an XLSX workbook into a TIFF image while maintaining visual fidelity and page layout."
+    }
+  ]
+}
