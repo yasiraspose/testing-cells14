@@ -5,6 +5,11 @@
   "framework": ".NET",
   "examples": [
     {
+      "category": "comments-and-notes",
+      "file": "remove-threaded-comments-in-a-workbook-loaded-in-xlsx-format.cs",
+      "title": "Remove Threaded Comments in a workbook loaded in XLSX format."
+    },
+    {
       "category": "conversion",
       "file": "batch-convert-multiple-xlsx-files-to-pdf-and-store-results-in-an-output-folder.cs",
       "title": "Batch convert multiple XLSX files to PDF and store results in an output folder."
