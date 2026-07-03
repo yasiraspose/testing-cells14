@@ -26,6 +26,11 @@
     },
     {
       "category": "conversion",
+      "file": "convert-an-excel-workbook-to-pdf-using-xlsx-as-the-input-and-pdf-as-the-output.cs",
+      "title": "Convert an Excel workbook to PDF using XLSX as the input and PDF as the output."
+    },
+    {
+      "category": "conversion",
       "file": "export-each-sheet-as-jpeg-images-with-300-dpi-resolution-for-printing.cs",
       "title": "Export each sheet as JPEG images with 300\u202fDPI resolution for printing."
     },
