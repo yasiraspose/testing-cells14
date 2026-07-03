@@ -40,6 +40,11 @@
       "title": "Export each sheet as JPEG images with 300\u202fDPI resolution for printing."
     },
     {
+      "category": "workbook-merger",
+      "file": "add-the-library-reference-to-a-net-project-via-nuget-before-implementing-merge-logic.cs",
+      "title": "Add the library reference to a .NET project via NuGet before implementing merge logic."
+    },
+    {
       "category": "working-with-images",
       "file": "transform-an-xlsx-workbook-into-a-tiff-image-while-maintaining-visual-fidelity-and-page-layout.cs",
       "title": "Transform an XLSX workbook into a TIFF image while maintaining visual fidelity and page layout."
