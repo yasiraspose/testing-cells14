@@ -56,3 +56,4 @@ Examples may generate:
 Output files are written to the working directory.
 - batch-convert-multiple-xlsx-files-to-pdf-and-store-results-in-an-output-folder.cs
 - export-each-sheet-as-jpeg-images-with-300-dpi-resolution-for-printing.cs
+- convert-an-excel-workbook-to-pdf-using-xlsx-as-the-input-and-pdf-as-the-output.cs
