@@ -31,6 +31,11 @@
     },
     {
       "category": "conversion",
+      "file": "convert-an-excel-workbook-to-xps-using-xlsx-as-the-input-and-xps-as-the-output.cs",
+      "title": "Convert an Excel workbook to XPS using XLSX as the input and XPS as the output."
+    },
+    {
+      "category": "conversion",
       "file": "export-each-sheet-as-jpeg-images-with-300-dpi-resolution-for-printing.cs",
       "title": "Export each sheet as JPEG images with 300\u202fDPI resolution for printing."
     },
